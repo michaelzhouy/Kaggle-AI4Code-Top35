@@ -1,0 +1,5 @@
+epoch 0 Preds score 0.7924601007471701
+epoch 1 Preds score 0.8144501742532805
+epoch 2 Preds score 0.8183011403662771
+epoch 3 Preds score 0.8203782888775359
+epoch 4 Preds score 0.8225587075916356
